@@ -27,14 +27,14 @@ this point, iclickerpoll.py will send the closing sequence to
 the iclicker base station and save any data if requested (with --dest).
 
 Full options:
-> optional arguments:
->   -h, --help            show this help message and exit
->   --debug               Display debug information about the USB transactions
->   --type TYPE           Sets the poll type to alpha, numeric, or alphanumeric
->   --duration DURATION   Sets the duration of the poll in minutes and seconds.
->                         0m0s is unlimited.
->   --dest DEST           Sets the file to save polling data to.
->   --frequency FREQUENCY
->                         Sets the two base-station frequency codes. Should be
->                         formatted as two letters (e.g., 'aa' or 'ab')
+     optional arguments:
+      -h, --help            show this help message and exit
+      --debug               Display debug information about the USB transactions
+      --type TYPE           Sets the poll type to alpha, numeric, or alphanumeric
+      --duration DURATION   Sets the duration of the poll in minutes and seconds.
+                            0m0s is unlimited.
+      --dest DEST           Sets the file to save polling data to.
+      --frequency FREQUENCY
+                            Sets the two base-station frequency codes. Should be
+                            formatted as two letters (e.g., 'aa' or 'ab')
 
