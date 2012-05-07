@@ -27,6 +27,8 @@ this point, iclickerpoll.py will send the closing sequence to
 the iclicker base station and save any data if requested (with --dest).
 
 Full options:
+
+
      optional arguments:
       -h, --help            show this help message and exit
       --debug               Display debug information about the USB transactions
