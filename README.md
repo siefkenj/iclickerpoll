@@ -40,3 +40,7 @@ Full options:
                             Sets the two base-station frequency codes. Should be
                             formatted as two letters (e.g., 'aa' or 'ab')
 
+Related Projects
+----------------
+
+[Freepoll](https://github.com/daveho/freepoll) is an open-source wxWidgets GUI for iclickers by David Hovenmeyer.
